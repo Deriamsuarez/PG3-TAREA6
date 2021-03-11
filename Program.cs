@@ -7,6 +7,7 @@ namespace Hello_Word
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Blinding Lights");
         }
     }
 }
